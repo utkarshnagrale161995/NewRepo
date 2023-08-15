@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infosys.CodeFirstCore.DataAccessLayer", "Infosys.CodeFirstCore.DataAccessLayer\Infosys.CodeFirstCore.DataAccessLayer.csproj", "{7BA914B4-F153-4A76-8DAB-0E3F4F17914C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infosys.CodeFirstCore.ConsoleUI", "Infosys.CodeFirstCore.ConsoleUI\Infosys.CodeFirstCore.ConsoleUI.csproj", "{C0D15D81-86B6-404E-AD25-2BA1BC6B31D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BA914B4-F153-4A76-8DAB-0E3F4F17914C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BA914B4-F153-4A76-8DAB-0E3F4F17914C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BA914B4-F153-4A76-8DAB-0E3F4F17914C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BA914B4-F153-4A76-8DAB-0E3F4F17914C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0D15D81-86B6-404E-AD25-2BA1BC6B31D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0D15D81-86B6-404E-AD25-2BA1BC6B31D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0D15D81-86B6-404E-AD25-2BA1BC6B31D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0D15D81-86B6-404E-AD25-2BA1BC6B31D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D07B1B3B-E424-4D78-8DB8-E31BD3FA3273}
+	EndGlobalSection
+EndGlobal
